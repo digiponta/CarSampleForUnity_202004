@@ -1,0 +1,544 @@
+fileFormatVersion: 2
+guid: 623959fc3f9f2c44da7a75b715b754d8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: camera_L1
+    100002: camera_L2
+    100004: camera_R1
+    100006: camera_R2
+    100008: camera_R3
+    100010: camera_R3 1
+    100012: camera_R3 2
+    100014: camera_R3 3
+    100016: camera_R3 4
+    100018: camera_R3 5
+    100020: camera_R4
+    100022: camera_R4 1
+    100024: camera_R4 2
+    100026: camera_R4 3
+    100028: camera_R4 4
+    100030: camera_R4 5
+    100032: Cameras
+    100034: car
+    100036: //RootNode
+    100038: directionalLight1
+    100040: directionalLight2
+    100042: front_wheel1
+    100044: front_wheel2
+    100046: front_wheel3
+    100048: front_wheel4
+    100050: ground
+    100052: left
+    100054: Lights
+    100056: pasted__pCube2
+    100058: pCube1
+    100060: pCube10
+    100062: pCube11
+    100064: pCube13
+    100066: pCube14
+    100068: pCube15
+    100070: pCube4
+    100072: pCube5
+    100074: pCube6
+    100076: pCube7
+    100078: pCube8
+    100080: pCube9
+    100082: pCylinder1
+    100084: pCylinder10
+    100086: pCylinder11
+    100088: pCylinder12
+    100090: pCylinder13
+    100092: pCylinder14
+    100094: pCylinder2
+    100096: pCylinder20
+    100098: pCylinder21
+    100100: pCylinder22
+    100102: pCylinder23
+    100104: pCylinder24
+    100106: pCylinder25
+    100108: pCylinder26
+    100110: pCylinder27
+    100112: pCylinder28
+    100114: pCylinder29
+    100116: pCylinder3
+    100118: pCylinder30
+    100120: pCylinder31
+    100122: pCylinder32
+    100124: pCylinder34
+    100126: pCylinder35
+    100128: pCylinder36
+    100130: pCylinder4
+    100132: pCylinder44
+    100134: pCylinder45
+    100136: pCylinder46
+    100138: pCylinder47
+    100140: pCylinder48
+    100142: pCylinder49
+    100144: pCylinder5
+    100146: pCylinder50
+    100148: pCylinder51
+    100150: pCylinder52
+    100152: pCylinder53
+    100154: pCylinder54
+    100156: pCylinder55
+    100158: pCylinder56
+    100160: pCylinder56 1
+    100162: pCylinder57
+    100164: pCylinder58
+    100166: pCylinder59
+    100168: pCylinder6
+    100170: pCylinder60
+    100172: pCylinder61
+    100174: pCylinder7
+    100176: pCylinder8
+    100178: pCylinder9
+    100180: pSphere1
+    100182: pSphere2
+    100184: StereoCamera1
+    100186: StereoCamera2
+    100188: StereoCamera3
+    100190: StereoCamera4
+    100192: StereoCamera5
+    100194: StereoCamera6
+    100196: StereoCamera7
+    100198: StereoCamera8
+    100200: tire01
+    100202: tire02
+    100204: tire03
+    100206: tire04
+    100208: transform1
+    100210: transform2
+    100212: transform3
+    100214: transform4
+    100216: transform5
+    400000: camera_L1
+    400002: camera_L2
+    400004: camera_R1
+    400006: camera_R2
+    400008: camera_R3
+    400010: camera_R3 1
+    400012: camera_R3 2
+    400014: camera_R3 3
+    400016: camera_R3 4
+    400018: camera_R3 5
+    400020: camera_R4
+    400022: camera_R4 1
+    400024: camera_R4 2
+    400026: camera_R4 3
+    400028: camera_R4 4
+    400030: camera_R4 5
+    400032: Cameras
+    400034: car
+    400036: //RootNode
+    400038: directionalLight1
+    400040: directionalLight2
+    400042: front_wheel1
+    400044: front_wheel2
+    400046: front_wheel3
+    400048: front_wheel4
+    400050: ground
+    400052: left
+    400054: Lights
+    400056: pasted__pCube2
+    400058: pCube1
+    400060: pCube10
+    400062: pCube11
+    400064: pCube13
+    400066: pCube14
+    400068: pCube15
+    400070: pCube4
+    400072: pCube5
+    400074: pCube6
+    400076: pCube7
+    400078: pCube8
+    400080: pCube9
+    400082: pCylinder1
+    400084: pCylinder10
+    400086: pCylinder11
+    400088: pCylinder12
+    400090: pCylinder13
+    400092: pCylinder14
+    400094: pCylinder2
+    400096: pCylinder20
+    400098: pCylinder21
+    400100: pCylinder22
+    400102: pCylinder23
+    400104: pCylinder24
+    400106: pCylinder25
+    400108: pCylinder26
+    400110: pCylinder27
+    400112: pCylinder28
+    400114: pCylinder29
+    400116: pCylinder3
+    400118: pCylinder30
+    400120: pCylinder31
+    400122: pCylinder32
+    400124: pCylinder34
+    400126: pCylinder35
+    400128: pCylinder36
+    400130: pCylinder4
+    400132: pCylinder44
+    400134: pCylinder45
+    400136: pCylinder46
+    400138: pCylinder47
+    400140: pCylinder48
+    400142: pCylinder49
+    400144: pCylinder5
+    400146: pCylinder50
+    400148: pCylinder51
+    400150: pCylinder52
+    400152: pCylinder53
+    400154: pCylinder54
+    400156: pCylinder55
+    400158: pCylinder56
+    400160: pCylinder56 1
+    400162: pCylinder57
+    400164: pCylinder58
+    400166: pCylinder59
+    400168: pCylinder6
+    400170: pCylinder60
+    400172: pCylinder61
+    400174: pCylinder7
+    400176: pCylinder8
+    400178: pCylinder9
+    400180: pSphere1
+    400182: pSphere2
+    400184: StereoCamera1
+    400186: StereoCamera2
+    400188: StereoCamera3
+    400190: StereoCamera4
+    400192: StereoCamera5
+    400194: StereoCamera6
+    400196: StereoCamera7
+    400198: StereoCamera8
+    400200: tire01
+    400202: tire02
+    400204: tire03
+    400206: tire04
+    400208: transform1
+    400210: transform2
+    400212: transform3
+    400214: transform4
+    400216: transform5
+    2000000: camera_L1
+    2000002: camera_L2
+    2000004: camera_R1
+    2000006: camera_R2
+    2000008: camera_R3
+    2000010: camera_R3 1
+    2000012: camera_R3 2
+    2000014: camera_R3 3
+    2000016: camera_R3 4
+    2000018: camera_R3 5
+    2000020: camera_R4
+    2000022: camera_R4 1
+    2000024: camera_R4 2
+    2000026: camera_R4 3
+    2000028: camera_R4 4
+    2000030: camera_R4 5
+    2000032: left
+    2100000: lambert1
+    2100002: Tank
+    2100004: frame
+    2100006: Aluminum
+    2100008: pipe
+    2100010: tire
+    2100012: phong3
+    2100014: wheel
+    2100016: brake
+    2300000: front_wheel1
+    2300002: front_wheel2
+    2300004: front_wheel3
+    2300006: front_wheel4
+    2300008: ground
+    2300010: pasted__pCube2
+    2300012: pCube10
+    2300014: pCube11
+    2300016: pCube13
+    2300018: pCube14
+    2300020: pCube15
+    2300022: pCube4
+    2300024: pCube5
+    2300026: pCube6
+    2300028: pCube7
+    2300030: pCube8
+    2300032: pCube9
+    2300034: pCylinder1
+    2300036: pCylinder10
+    2300038: pCylinder11
+    2300040: pCylinder12
+    2300042: pCylinder13
+    2300044: pCylinder14
+    2300046: pCylinder2
+    2300048: pCylinder20
+    2300050: pCylinder21
+    2300052: pCylinder22
+    2300054: pCylinder23
+    2300056: pCylinder24
+    2300058: pCylinder25
+    2300060: pCylinder26
+    2300062: pCylinder27
+    2300064: pCylinder28
+    2300066: pCylinder29
+    2300068: pCylinder3
+    2300070: pCylinder30
+    2300072: pCylinder31
+    2300074: pCylinder32
+    2300076: pCylinder34
+    2300078: pCylinder35
+    2300080: pCylinder36
+    2300082: pCylinder4
+    2300084: pCylinder44
+    2300086: pCylinder45
+    2300088: pCylinder46
+    2300090: pCylinder47
+    2300092: pCylinder48
+    2300094: pCylinder49
+    2300096: pCylinder5
+    2300098: pCylinder50
+    2300100: pCylinder51
+    2300102: pCylinder52
+    2300104: pCylinder53
+    2300106: pCylinder54
+    2300108: pCylinder55
+    2300110: pCylinder59
+    2300112: pCylinder6
+    2300114: pCylinder60
+    2300116: pCylinder61
+    2300118: pCylinder7
+    2300120: pCylinder8
+    2300122: pCylinder9
+    2300124: pSphere1
+    2300126: pSphere2
+    2300128: tire01
+    2300130: tire02
+    2300132: tire03
+    2300134: tire04
+    3300000: front_wheel1
+    3300002: front_wheel2
+    3300004: front_wheel3
+    3300006: front_wheel4
+    3300008: ground
+    3300010: pasted__pCube2
+    3300012: pCube10
+    3300014: pCube11
+    3300016: pCube13
+    3300018: pCube14
+    3300020: pCube15
+    3300022: pCube4
+    3300024: pCube5
+    3300026: pCube6
+    3300028: pCube7
+    3300030: pCube8
+    3300032: pCube9
+    3300034: pCylinder1
+    3300036: pCylinder10
+    3300038: pCylinder11
+    3300040: pCylinder12
+    3300042: pCylinder13
+    3300044: pCylinder14
+    3300046: pCylinder2
+    3300048: pCylinder20
+    3300050: pCylinder21
+    3300052: pCylinder22
+    3300054: pCylinder23
+    3300056: pCylinder24
+    3300058: pCylinder25
+    3300060: pCylinder26
+    3300062: pCylinder27
+    3300064: pCylinder28
+    3300066: pCylinder29
+    3300068: pCylinder3
+    3300070: pCylinder30
+    3300072: pCylinder31
+    3300074: pCylinder32
+    3300076: pCylinder34
+    3300078: pCylinder35
+    3300080: pCylinder36
+    3300082: pCylinder4
+    3300084: pCylinder44
+    3300086: pCylinder45
+    3300088: pCylinder46
+    3300090: pCylinder47
+    3300092: pCylinder48
+    3300094: pCylinder49
+    3300096: pCylinder5
+    3300098: pCylinder50
+    3300100: pCylinder51
+    3300102: pCylinder52
+    3300104: pCylinder53
+    3300106: pCylinder54
+    3300108: pCylinder55
+    3300110: pCylinder59
+    3300112: pCylinder6
+    3300114: pCylinder60
+    3300116: pCylinder61
+    3300118: pCylinder7
+    3300120: pCylinder8
+    3300122: pCylinder9
+    3300124: pSphere1
+    3300126: pSphere2
+    3300128: tire01
+    3300130: tire02
+    3300132: tire03
+    3300134: tire04
+    4300000: ground
+    4300002: pCube9
+    4300004: pCube11
+    4300006: pCylinder36
+    4300008: pCylinder35
+    4300010: pCube7
+    4300012: pCube6
+    4300014: pCylinder34
+    4300016: pSphere2
+    4300018: pCube5
+    4300020: pCube4
+    4300022: pCylinder31
+    4300024: pCylinder30
+    4300026: pCube10
+    4300028: pCylinder32
+    4300030: pCylinder26
+    4300032: pCylinder25
+    4300034: pCylinder29
+    4300036: pCylinder28
+    4300038: pCylinder27
+    4300040: pCylinder21
+    4300042: pCylinder20
+    4300044: pCylinder24
+    4300046: pCylinder23
+    4300048: pCylinder22
+    4300050: pasted__pCube2
+    4300052: pCylinder14
+    4300054: pSphere1
+    4300056: pCylinder13
+    4300058: pCylinder12
+    4300060: tire01
+    4300062: pCylinder7
+    4300064: pCylinder11
+    4300066: pCylinder53
+    4300068: pCylinder10
+    4300070: front_wheel1
+    4300072: pCylinder1
+    4300074: pCube8
+    4300076: pCylinder44
+    4300078: pCylinder45
+    4300080: pCylinder46
+    4300082: pCube13
+    4300084: pCylinder2
+    4300086: pCylinder47
+    4300088: pCylinder3
+    4300090: pCylinder9
+    4300092: tire02
+    4300094: pCylinder8
+    4300096: pCylinder52
+    4300098: front_wheel2
+    4300100: pCylinder48
+    4300102: pCylinder49
+    4300104: pCylinder50
+    4300106: pCylinder51
+    4300108: pCylinder6
+    4300110: tire03
+    4300112: front_wheel3
+    4300114: pCylinder5
+    4300116: tire04
+    4300118: front_wheel4
+    4300120: pCylinder4
+    4300122: pCylinder55
+    4300124: pCylinder54
+    4300126: pCylinder61
+    4300128: pCylinder60
+    4300130: pCylinder59
+    4300132: pCube15
+    4300134: pCube14
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: directionalLight1
+    10800002: directionalLight2
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

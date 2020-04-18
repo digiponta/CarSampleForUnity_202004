@@ -63,6 +63,19 @@ ModelImporter:
     100114: tire02
     100116: tire03
     100118: tire04
+    100120: pCube15
+    100122: pCylinder54
+    100124: pCylinder55
+    100126: pCylinder56
+    100128: pCylinder57
+    100130: pCylinder58
+    100132: pCylinder59
+    100134: pCylinder60
+    100136: pCylinder61
+    100138: transform1
+    100140: transform2
+    100142: transform3
+    100144: transform5
     400000: //RootNode
     400002: front_wheel1
     400004: front_wheel2
@@ -123,6 +136,19 @@ ModelImporter:
     400114: tire02
     400116: tire03
     400118: tire04
+    400120: pCube15
+    400122: pCylinder54
+    400124: pCylinder55
+    400126: pCylinder56
+    400128: pCylinder57
+    400130: pCylinder58
+    400132: pCylinder59
+    400134: pCylinder60
+    400136: pCylinder61
+    400138: transform1
+    400140: transform2
+    400142: transform3
+    400144: transform5
     2100000: Tank
     2100002: frame
     2100004: Aluminum
@@ -191,6 +217,12 @@ ModelImporter:
     2300112: tire02
     2300114: tire03
     2300116: tire04
+    2300118: pCube15
+    2300120: pCylinder54
+    2300122: pCylinder55
+    2300124: pCylinder59
+    2300126: pCylinder60
+    2300128: pCylinder61
     3300000: front_wheel1
     3300002: front_wheel2
     3300004: front_wheel3
@@ -250,6 +282,12 @@ ModelImporter:
     3300112: tire02
     3300114: tire03
     3300116: tire04
+    3300118: pCube15
+    3300120: pCylinder54
+    3300122: pCylinder55
+    3300124: pCylinder59
+    3300126: pCylinder60
+    3300128: pCylinder61
     4300000: pCylinder36
     4300002: pCylinder35
     4300004: pCube7
@@ -309,6 +347,12 @@ ModelImporter:
     4300112: front_wheel4
     4300114: pCube1
     4300116: pCylinder4
+    4300118: pCylinder55
+    4300120: pCylinder54
+    4300122: pCylinder61
+    4300124: pCylinder60
+    4300126: pCylinder59
+    4300128: pCube15
     7400000: Take 001
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -317,7 +361,7 @@ ModelImporter:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
