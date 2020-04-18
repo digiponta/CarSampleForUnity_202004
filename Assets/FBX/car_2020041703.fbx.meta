@@ -76,6 +76,7 @@ ModelImporter:
     100140: transform2
     100142: transform3
     100144: transform5
+    100146: pCube21
     400000: //RootNode
     400002: front_wheel1
     400004: front_wheel2
@@ -149,6 +150,7 @@ ModelImporter:
     400140: transform2
     400142: transform3
     400144: transform5
+    400146: pCube21
     2100000: Tank
     2100002: frame
     2100004: Aluminum
@@ -223,6 +225,7 @@ ModelImporter:
     2300124: pCylinder59
     2300126: pCylinder60
     2300128: pCylinder61
+    2300130: pCube21
     3300000: front_wheel1
     3300002: front_wheel2
     3300004: front_wheel3
@@ -288,6 +291,7 @@ ModelImporter:
     3300124: pCylinder59
     3300126: pCylinder60
     3300128: pCylinder61
+    3300130: pCube21
     4300000: pCylinder36
     4300002: pCylinder35
     4300004: pCube7
@@ -353,10 +357,56 @@ ModelImporter:
     4300124: pCylinder60
     4300126: pCylinder59
     4300128: pCube15
+    4300130: pCube21
     7400000: Take 001
     9500000: //RootNode
     2186277476908879412: ImportLogs
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum
+    second: {fileID: 2100000, guid: 414a6102b5d78684ea4bf229b2f19f86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tank
+    second: {fileID: 2100000, guid: fac2f74aeaaac894a9509d69f8b83db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brake
+    second: {fileID: 2100000, guid: fa8d81028042ff246b1464a74fe86424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: frame
+    second: {fileID: 2100000, guid: fb4c433d9ec9ab4408ab4096eef5f45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 30d529b5a4dca09439aa2cbbf3414514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 1a341ec9fa61454459ed49f13ae8a1ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe
+    second: {fileID: 2100000, guid: 27e043c24502c6540aa766240e1013e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 8d454a35522c19245aeae02379952e90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheel
+    second: {fileID: 2100000, guid: acef8d5910d0e4f4a937953e798e0676, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
